@@ -1,4 +1,4 @@
-# Home SIEM Lab
+# Honeypot SOC Lab
 This project sets up a home SOC (Security Operations Center) lab in Microsoft Azure to simulate real-world cyber attack monitoring and investigation. It involves deploying a Windows virtual machine (VM) configured as a honeypot, collecting security logs, and analyzing them with Microsoft Sentinel using Kusto Query Language (KQL).
 
 # 🛠️ Features
